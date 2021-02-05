@@ -1,0 +1,13 @@
+.container-fluid{
+  font-weight: bold;
+align-items: center;
+width: 100%;
+margin-left: 20px;
+}
+body{
+  background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVkEZP6_ex95MaWgnGoKG3jFKyWooPgCi3_Q&usqp=CAU");
+  background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
